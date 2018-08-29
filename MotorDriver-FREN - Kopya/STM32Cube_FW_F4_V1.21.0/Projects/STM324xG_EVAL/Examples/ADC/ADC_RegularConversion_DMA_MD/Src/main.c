@@ -27,7 +27,7 @@ uint8_t isMotorStabilized = 0;
 
 int main(void)
 {
-	HAL_Init();
+	HAL_Init(); //init
 	SystemClock_Config();
 	ADC_DMA_CONFIG();
 	DIGITAL_OUT_CONFIG();
