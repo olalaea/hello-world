@@ -1,2 +1,2 @@
 # hello-world
-ilk deneme postu
+ilk deneme havuzu
